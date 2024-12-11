@@ -2,8 +2,13 @@
 
 <img width="946" alt="Robotron_StartScreen" src="https://github.com/user-attachments/assets/21a5a278-541f-4a6b-badf-5d32554543e4" />
 
-This is a clone of the iconic twin-stick shooter Robotron 2084, built using C and OpenGL. Below are the key technical implementations:
+This is a clone of the iconic twin-stick shooter Robotron 2084, built using C and OpenGL. 
 
+## Steps to play:
+- Clone the project
+- Open the Game folder and launch the exe
+
+## Below are the key technical implementations:
 ## Object-Oriented Structure
 - Designed an object-oriented architecture in C using vtables, function pointers, and callbacks.
 - Developed a BaseObject class with a vtable for Draw and Update functions and an ObjectManager class for registering and deregistering objects dynamically.
